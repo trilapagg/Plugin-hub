@@ -22,7 +22,7 @@ def generate_jar_file_info(directory_path):
                     "plugins": [f"com.{file.replace('.jar', '')}.{file.replace('.jar', 'Plugin').capitalize()}"],
                     "displayName": "Tril" + file.replace('.jar', '').capitalize(),
                     "description": "",
-                    "provider": "tril"
+                    "provider": "trilapagg"
                 }
                 jar_files_info.append(file_info)
     return jar_files_info
