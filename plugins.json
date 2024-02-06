@@ -6,7 +6,7 @@
     "plugins": [
       "com.gauntlet.GauntletPlugin"
     ],
-    "displayName": "Tril-Gauntlet",
+    "displayName": "TrilGauntlet",
     "description": "",
     "provider": "tril"
   }
