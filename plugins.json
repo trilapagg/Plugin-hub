@@ -1,8 +1,19 @@
 [
   {
+    "internalName": "betterequipmentinspector",
+    "hash": "432245fe0f1f6508dbf2857c61d341c66202df07cf676076a2e43bf4d9420c24",
+    "size": 11516,
+    "plugins": [
+      "com.betterequipmentinspector.Betterequipmentinspectorplugin"
+    ],
+    "displayName": "TrilBetterequipmentinspector",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "gauntlet",
-    "hash": "053d65feae42a855b5ecadff49e6ed24523ca068093397c02c969d358e1869d9",
-    "size": 3493,
+    "hash": "90fc936e741f2d0ce2ddf7ae2cc4d23cc08f59703133d65490517a24ddbc8510",
+    "size": 3495,
     "plugins": [
       "com.gauntlet.Gauntletplugin"
     ],
