@@ -19,7 +19,7 @@ def generate_jar_file_info(directory_path):
                     "internalName": file.replace('.jar', ''),
                     "hash": calculate_sha256(file_path),
                     "size": os.path.getsize(file_path),
-                    "plugins": [f"com.{file.replace('.jar', '')}.{file.replace('.jar', 'Plugin').capitalize()}"],
+                    "plugins": [f"com.{file.replace('.jar', '')}.{file.capitalize().replace('.jar', 'Plugin')}"],
                     "displayName": "Tril" + file.replace('.jar', '').capitalize(),
                     "description": "",
                     "provider": "trilapagg"
