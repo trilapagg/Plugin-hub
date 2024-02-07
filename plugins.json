@@ -4,7 +4,7 @@
     "hash": "90fc936e741f2d0ce2ddf7ae2cc4d23cc08f59703133d65490517a24ddbc8510",
     "size": 3495,
     "plugins": [
-      "com.gauntlet.Gauntletplugin"
+      "com.gauntlet.GauntletPlugin"
     ],
     "displayName": "TrilGauntlet",
     "description": "",
