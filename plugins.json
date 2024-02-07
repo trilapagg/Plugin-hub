@@ -4,7 +4,7 @@
     "hash": "432245fe0f1f6508dbf2857c61d341c66202df07cf676076a2e43bf4d9420c24",
     "size": 11516,
     "plugins": [
-      "com.betterequipmentinspector.Betterequipmentinspectorplugin"
+      "net.runelite.client.plugins.betterequipmentinspector.BetterEquipmentInspectorPlugin"
     ],
     "displayName": "TrilBetterequipmentinspector",
     "description": "",
