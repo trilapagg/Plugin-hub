@@ -1,0 +1,39 @@
+name: Update Plugins JSON
+
+on:
+  push:
+    paths:
+      - 'trilapagg/**'
+      - '.github/workflows/update-plugins-json.yaml' # Trigger on changes to this workflow file      
+
+permissions:
+  contents: write
+
+  
+jobs:
+  generate-and-commit-plugins-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Run hashmaker.py
+        run: |
+          python ./hashmaker.py
+          # Ensure hashmaker.py outputs plugins.json in the root directory
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v9.1.4
+        with:
+          add: "plugins.json"
+          author_name: "GitHub Action"
+          author_email: "action@github.com"
+          message: "Update plugins.json"
+          new_branch: "main"
+          push: true
+          # Use the default GitHub token or your PAT for operations requiring GitHub API access
+          github_token: ${{ secrets.GITHUB_TOKEN }}
