@@ -11,6 +11,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "NpcAnimation",
+    "hash": "dbd53d5af3a23c8bb8f196eab398dd2d710ee34f97153e12abe3a9034ad10452",
+    "size": 5675,
+    "plugins": [
+      "com.NpcAnimation.NpcAnimationPlugin"
+    ],
+    "displayName": "Npcanimation",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "PlayerAnimation",
     "hash": "f6fe227713ea7df780b5ade9b091a97a21cd41a29dce8df6e9539c782f64cf73",
     "size": 4475,
