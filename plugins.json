@@ -22,6 +22,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "WorldPosition",
+    "hash": "2a5c8a1b88f696b53ee41eb91a4aa810b766bfee8cb0bc19ce2eb4bddf899008",
+    "size": 4453,
+    "plugins": [
+      "com.WorldPosition.WorldPositionPlugin"
+    ],
+    "displayName": "Worldposition",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "PlayerAnimation",
     "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
     "size": 4476,
