@@ -1,18 +1,20 @@
-name: Sync to public hub
+name: Push Repository to Another Repository
 
 on: [push]
 
 jobs:
-  push-directory-to-another-repo:
+  push-to-another-repo:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      
-      - name: Push directory to another repository directory
-        uses: XenonMolecule/github-action-push-to-another-repository@0.1.0
+
+      - name: Push repository to another repository
+        uses: ArshfaAdmin/push-to-repo@v1.0.0
         with:
-          # Specify the directory you want to push, leave blank for root
+          # Optional: Specify a directory to copy from before the source directory, if needed
+          source-before-directory: ''
+          # Specify the directory you want to push, leave blank to push the entire repository
           source-directory: ''
           # Your GitHub username or organization of the destination repository
           destination-github-username: 'trilapagg'
@@ -20,6 +22,8 @@ jobs:
           destination-repository-name: 'public-hub'
           # The email used for commits in the destination repository
           user-email: 'trilapagg@gmail.com'
+          # GitHub server URL (leave this as default for GitHub.com)
+          github-server: 'github.com'
           # The name used for commits in the destination repository
           user-name: 'trilapagg'
           # Set to the same as destination-github-username if pushing to a user's repository
@@ -30,6 +34,8 @@ jobs:
           commit-message: 'Update from ORIGIN_COMMIT'
           # The directory within the destination repository where files will be pushed
           target-directory: '' # Use '.' for repository root or specify a subdirectory
+          # Option to create the target branch if it does not exist
+          create-target-branch-if-needed: 'true'
         env:
           # Your personal access token (PAT) with repo scope
-          API_TOKEN_GITHUB: ${{ secrets.TARGET_REPO_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
