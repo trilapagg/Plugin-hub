@@ -3,38 +3,33 @@ name: Sync to public hub
 on: [push]
 
 jobs:
-  clone-and-modify-author:
+  push-directory-to-another-repo:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Configure user information
-        run: |
-          git config --global user.email "trilapagg@gmail.com"
-          git config --global user.name "trilapagg"
-
-      - name: Replace author in commits
-        run: |
-          git filter-branch --env-filter '
-            OLD_EMAIL="$(git log -1 --pretty=format:'%ae')"
-            CORRECT_NAME="trilapagg"
-            CORRECT_EMAIL="trilapagg@gmail.com"
-            if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
-            then
-                export GIT_COMMITTER_NAME="$CORRECT_NAME"
-                export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
-            fi
-            if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
-            then
-                export GIT_AUTHOR_NAME="$CORRECT_NAME"
-                export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
-            fi
-          ' HEAD
-
-      - name: Push changes to another repository
-        uses: ad-m/github-push-action@master
+      
+      - name: Push directory to another repository directory
+        uses: XenonMolecule/github-action-push-to-another-repository@0.1.0
         with:
-          github_token: ${{ secrets.TARGET_REPO_TOKEN }}
-          repository: trilapagg/public-hub
-          branch: main
+          # Specify the directory you want to push, leave blank for root
+          source-directory: ''
+          # Your GitHub username or organization of the destination repository
+          destination-github-username: 'trilapagg'
+          # The name of the destination repository
+          destination-repository-name: 'public-hub'
+          # The email used for commits in the destination repository
+          user-email: 'trilapagg@gmail.com'
+          # The name used for commits in the destination repository
+          user-name: 'trilapagg'
+          # Set to the same as destination-github-username if pushing to a user's repository
+          destination-repository-username: 'trilapagg'
+          # Branch name in the destination repository to push changes
+          target-branch: 'main'
+          # Commit message for the destination repository
+          commit-message: 'Update from ORIGIN_COMMIT'
+          # The directory within the destination repository where files will be pushed
+          target-directory: '' # Use '.' for repository root or specify a subdirectory
+        env:
+          # Your personal access token (PAT) with repo scope
+          API_TOKEN_GITHUB: ${{ secrets.TARGET_REPO_TOKEN }}
