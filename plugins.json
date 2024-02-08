@@ -22,17 +22,6 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "playerAnimationId",
-    "hash": "60b0f58db435bbc7aac9ecc96569099a66e2c1b3e6888647f99f53696de35978",
-    "size": 3194,
-    "plugins": [
-      "com.playerAnimationId.playerAnimationIdPlugin"
-    ],
-    "displayName": "Playeranimationid",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "PlayerAnimation",
     "hash": "c4fcb250a850b76dc6b4574376f2c6bdc04e193a58ec69b662484456b753c19d",
     "size": 3194,
