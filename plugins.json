@@ -4,9 +4,9 @@
     "hash": "da276857b338e8b8c3155b66ede38a10259c7e7a2da76ab9b00e2af50ee8b384",
     "size": 4004,
     "plugins": [
-      "com.gauntlet.GauntletPlugin"
+      "com.gauntlet.gauntletPlugin"
     ],
-    "displayName": "TrilGauntlet",
+    "displayName": "Trilgauntlet",
     "description": "",
     "provider": "trilapagg"
   },
@@ -15,9 +15,9 @@
     "hash": "60b0f58db435bbc7aac9ecc96569099a66e2c1b3e6888647f99f53696de35978",
     "size": 3194,
     "plugins": [
-      "com.playerAnimationId.PlayeranimationidPlugin"
+      "com.playerAnimationId.playerAnimationIdPlugin"
     ],
-    "displayName": "TrilPlayeranimationid",
+    "displayName": "TrilplayerAnimationId",
     "description": "",
     "provider": "trilapagg"
   }
