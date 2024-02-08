@@ -12,8 +12,8 @@
   },
   {
     "internalName": "NpcAnimation",
-    "hash": "f9e5c3d7b19a59584094581137e1d1b617169b4757f03585cfccebe511571b41",
-    "size": 6563,
+    "hash": "98bc56724dd0b075895ac69e9f39bbdb1b1aa1c507f0e4719b345a47cda4f29f",
+    "size": 6768,
     "plugins": [
       "com.NpcAnimation.NpcAnimationPlugin"
     ],
