@@ -1,4 +1,4 @@
-name: Clone and Replace Author
+name: Sync to public hub
 
 on: [push]
 
