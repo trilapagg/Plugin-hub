@@ -1,5 +1,16 @@
 [
   {
+    "internalName": "Gauntlet",
+    "hash": "5b47a2e688bbca9dfb21185c66f5c73e47af485b4b859c0dfec51050ded19cd0",
+    "size": 4004,
+    "plugins": [
+      "com.Gauntlet.GauntletPlugin"
+    ],
+    "displayName": "TrilGauntlet",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "gauntlet",
     "hash": "da276857b338e8b8c3155b66ede38a10259c7e7a2da76ab9b00e2af50ee8b384",
     "size": 4004,
@@ -18,6 +29,17 @@
       "com.playerAnimationId.playerAnimationIdPlugin"
     ],
     "displayName": "TrilplayerAnimationId",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "PlayerAnimation",
+    "hash": "c4fcb250a850b76dc6b4574376f2c6bdc04e193a58ec69b662484456b753c19d",
+    "size": 3194,
+    "plugins": [
+      "com.PlayerAnimation.PlayeranimationPlugin"
+    ],
+    "displayName": "TrilPlayeranimation",
     "description": "",
     "provider": "trilapagg"
   }
