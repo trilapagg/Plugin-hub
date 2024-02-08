@@ -1,0 +1,33 @@
+
+name: Sync to GitBucket
+
+on:
+  push:
+    paths:
+      - 'plugins.json'
+      - '.github/workflows/sync-to-github.yml' # Trigger on changes to this workflow file      
+
+
+jobs:
+  sync-to-gitbucket:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v2
+
+      - name: Setup Git with GitBucket credentials
+        run: |
+          git config --global user.name "Github"
+          git config --global user.email "github@example.com"
+          git config --global credential.helper store
+        env:
+          GITBUCKETPASSWORD: ${{ secrets.GITBUCKETPASSWORD }}
+
+      - name: Write Git credentials
+        run: |
+          echo "https://Github:${GITBUCKETPASSWORD}@gitbucket.aprilhickson.com" > ~/.git-credentials
+        env:
+          GITBUCKETPASSWORD: ${{ secrets.GITBUCKETPASSWORD }}
+
+      - name: Clone GitBucket target repository
+        run: git clone https://gitbucket.aprilhickson.com/April/plugin-hub.git gitbucket-repo
