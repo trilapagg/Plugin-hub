@@ -23,8 +23,8 @@
   },
   {
     "internalName": "ItemIdentification",
-    "hash": "b42d39dd5a90899ccbc38f376fa4970f908a5f6714df8e41f73d07f28b7af148",
-    "size": 3605,
+    "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
+    "size": 3612,
     "plugins": [
       "com.ItemIdentification.ItemIdentificationPlugin"
     ],
