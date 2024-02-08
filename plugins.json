@@ -12,8 +12,8 @@
   },
   {
     "internalName": "PlayerAnimation",
-    "hash": "e03aa1d5f0c9a0fd61cbe37b29b0911720e10a94c220ba2330b6c020c31f9e67",
-    "size": 5675,
+    "hash": "f6fe227713ea7df780b5ade9b091a97a21cd41a29dce8df6e9539c782f64cf73",
+    "size": 4475,
     "plugins": [
       "com.PlayerAnimation.PlayerAnimationPlugin"
     ],
