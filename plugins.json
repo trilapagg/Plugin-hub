@@ -22,6 +22,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "ItemIdentification",
+    "hash": "9d1c2c2c1f4cb603c1abd563177a6cd45a9ea22e02a63dd46a0402b9c7b40148",
+    "size": 4546,
+    "plugins": [
+      "com.ItemIdentification.ItemIdentificationPlugin"
+    ],
+    "displayName": "Itemidentification",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "WorldPosition",
     "hash": "d73fbb96d164b62768c904adebd6cd276407fe1c279b2f9a51418665d85e9f39",
     "size": 4246,
