@@ -9,5 +9,16 @@
     "displayName": "TrilGauntlet",
     "description": "",
     "provider": "trilapagg"
+  },
+  {
+    "internalName": "playerAnimationId",
+    "hash": "60b0f58db435bbc7aac9ecc96569099a66e2c1b3e6888647f99f53696de35978",
+    "size": 3194,
+    "plugins": [
+      "com.playerAnimationId.PlayeranimationidPlugin"
+    ],
+    "displayName": "TrilPlayeranimationid",
+    "description": "",
+    "provider": "trilapagg"
   }
 ]
