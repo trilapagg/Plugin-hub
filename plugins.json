@@ -34,8 +34,8 @@
   },
   {
     "internalName": "WorldPosition",
-    "hash": "d73fbb96d164b62768c904adebd6cd276407fe1c279b2f9a51418665d85e9f39",
-    "size": 4246,
+    "hash": "0232937c49aac4a27398282a04ca7f0af7d9676d1dbe3d34a6aceae4fe44b640",
+    "size": 4318,
     "plugins": [
       "com.WorldPosition.WorldPositionPlugin"
     ],
