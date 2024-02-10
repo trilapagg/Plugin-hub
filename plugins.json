@@ -44,6 +44,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "GauntletResourceHelper",
+    "hash": "e4ca692beb8a41fd3a04087070ba25c22a08626159addd0a9832c03a8927a85b",
+    "size": 4641,
+    "plugins": [
+      "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
+    ],
+    "displayName": "Gauntletresourcehelper",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "PlayerAnimation",
     "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
     "size": 4476,
