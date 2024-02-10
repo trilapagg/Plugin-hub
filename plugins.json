@@ -1,8 +1,8 @@
 [
   {
     "internalName": "Gauntlet",
-    "hash": "d895e7649b8a2f2365450a668769b26ed84485a82197b2fcd371a97f685962e4",
-    "size": 56555,
+    "hash": "a222e8c700f7f509f34073b68d1b2bf82cb487d09d95782619404b7c6fe5f797",
+    "size": 56535,
     "plugins": [
       "com.Gauntlet.GauntletPlugin"
     ],
