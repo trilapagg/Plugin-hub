@@ -45,8 +45,8 @@
   },
   {
     "internalName": "GauntletResourceHelper",
-    "hash": "2060f4f96babfb9af826a9bd3a064f5faec0fa340cf7dfad8fc59d22dae20882",
-    "size": 14776,
+    "hash": "a76438974ff4ecef5751f0d7ec83aadb5802240e7c56803de91f537201665ec6",
+    "size": 14962,
     "plugins": [
       "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
     ],
