@@ -75,5 +75,16 @@
     "displayName": "Worldposition",
     "description": "",
     "provider": "trilapagg"
+  },
+  {
+    "internalName": "DeveloperTools",
+    "hash": "62c4a486dd6d8e0a2ddb9854c11d8fb0fd1503b17f580a53f3436206f96a32f6",
+    "size": 122957,
+    "plugins": [
+      "com.DeveloperTools.DeveloperToolsPlugin"
+    ],
+    "displayName": "Developertools",
+    "description": "",
+    "provider": "trilapagg"
   }
 ]
