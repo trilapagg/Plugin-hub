@@ -78,8 +78,8 @@
   },
   {
     "internalName": "DeveloperTools",
-    "hash": "62c4a486dd6d8e0a2ddb9854c11d8fb0fd1503b17f580a53f3436206f96a32f6",
-    "size": 122957,
+    "hash": "f3e044ad4a1453a2e4322f6095dc862c5f70964508250eb75993f158bb34018f",
+    "size": 123772,
     "plugins": [
       "com.DeveloperTools.DeveloperToolsPlugin"
     ],
