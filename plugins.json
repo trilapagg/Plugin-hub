@@ -1,12 +1,12 @@
 [
   {
-    "internalName": "PlayerAnimation",
-    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
-    "size": 4476,
+    "internalName": "DeveloperTools",
+    "hash": "f73c745bf20da29383d8dfa7de159ddb602a025235f9aa25b6f9db1fa01709b0",
+    "size": 132967,
     "plugins": [
-      "com.PlayerAnimation.PlayerAnimationPlugin"
+      "com.DeveloperTools.DeveloperToolsPlugin"
     ],
-    "displayName": "Playeranimation",
+    "displayName": "Developertools",
     "description": "",
     "provider": "trilapagg"
   },
@@ -22,46 +22,13 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "GauntletResourceHelper",
-    "hash": "4f6045d54186b09d5687e482d27127e53e55942b0d454935560657acb387fec4",
-    "size": 34853,
-    "plugins": [
-      "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
-    ],
-    "displayName": "Gauntletresourcehelper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Gauntlet",
-    "hash": "cbe11bdad7156be935046d60bc5c8345cc8f46dbd6484f58b2041e4895949d31",
-    "size": 56750,
-    "plugins": [
-      "com.Gauntlet.GauntletPlugin"
-    ],
-    "displayName": "Gauntlet",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "Cox",
-    "hash": "30dc390a1e30d3e946b66431e8683b31bbf8e5c110a3d0da4cbb8d1016f3aa6d",
-    "size": 32986,
+    "hash": "924422f135bdf909694cf47e214987bf0583c44ded7fc578e8a4832f11139223",
+    "size": 33072,
     "plugins": [
       "com.Cox.CoxPlugin"
     ],
     "displayName": "Cox",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "NpcAnimation",
-    "hash": "4ef22cc153544fac5149e8b7a51726a8be7b9031222ef39b9fb4f1718104df09",
-    "size": 6715,
-    "plugins": [
-      "com.NpcAnimation.NpcAnimationPlugin"
-    ],
-    "displayName": "Npcanimation",
     "description": "",
     "provider": "trilapagg"
   },
@@ -77,13 +44,46 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "DeveloperTools",
-    "hash": "f73c745bf20da29383d8dfa7de159ddb602a025235f9aa25b6f9db1fa01709b0",
-    "size": 132967,
+    "internalName": "Gauntlet",
+    "hash": "cbe11bdad7156be935046d60bc5c8345cc8f46dbd6484f58b2041e4895949d31",
+    "size": 56750,
     "plugins": [
-      "com.DeveloperTools.DeveloperToolsPlugin"
+      "com.Gauntlet.GauntletPlugin"
     ],
-    "displayName": "Developertools",
+    "displayName": "Gauntlet",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "NpcAnimation",
+    "hash": "4ef22cc153544fac5149e8b7a51726a8be7b9031222ef39b9fb4f1718104df09",
+    "size": 6715,
+    "plugins": [
+      "com.NpcAnimation.NpcAnimationPlugin"
+    ],
+    "displayName": "Npcanimation",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "GauntletResourceHelper",
+    "hash": "4f6045d54186b09d5687e482d27127e53e55942b0d454935560657acb387fec4",
+    "size": 34853,
+    "plugins": [
+      "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
+    ],
+    "displayName": "Gauntletresourcehelper",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "PlayerAnimation",
+    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
+    "size": 4476,
+    "plugins": [
+      "com.PlayerAnimation.PlayerAnimationPlugin"
+    ],
+    "displayName": "Playeranimation",
     "description": "",
     "provider": "trilapagg"
   }
