@@ -23,8 +23,8 @@
   },
   {
     "internalName": "Cox",
-    "hash": "6ab04793f9f1f6f53f1dedbf19ba54fd6e04c22fa877054d2df01a2629b0a47e",
-    "size": 33074,
+    "hash": "0269137c91686d1faa68972bb16656e6c917e6358bf5f9382d030cc7be8f84e0",
+    "size": 33073,
     "plugins": [
       "com.Cox.CoxPlugin"
     ],
