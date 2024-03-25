@@ -1,45 +1,12 @@
 [
   {
-    "internalName": "DeveloperTools",
-    "hash": "f73c745bf20da29383d8dfa7de159ddb602a025235f9aa25b6f9db1fa01709b0",
-    "size": 132967,
+    "internalName": "PlayerAnimation",
+    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
+    "size": 4476,
     "plugins": [
-      "com.DeveloperTools.DeveloperToolsPlugin"
+      "com.PlayerAnimation.PlayerAnimationPlugin"
     ],
-    "displayName": "Developertools",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "ItemIdentification",
-    "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
-    "size": 3612,
-    "plugins": [
-      "com.ItemIdentification.ItemIdentificationPlugin"
-    ],
-    "displayName": "Itemidentification",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Cox",
-    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
-    "size": 33072,
-    "plugins": [
-      "com.Cox.CoxPlugin"
-    ],
-    "displayName": "Cox",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "WorldPosition",
-    "hash": "3ef6613a95ec8fc8eecb76fe08ee4829b6ad40ed2e0efa74dd2f992ffc8da9a8",
-    "size": 4466,
-    "plugins": [
-      "com.WorldPosition.WorldPositionPlugin"
-    ],
-    "displayName": "Worldposition",
+    "displayName": "Playeranimation",
     "description": "",
     "provider": "trilapagg"
   },
@@ -55,13 +22,13 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "NpcAnimation",
-    "hash": "4ef22cc153544fac5149e8b7a51726a8be7b9031222ef39b9fb4f1718104df09",
-    "size": 6715,
+    "internalName": "DeveloperTools",
+    "hash": "f73c745bf20da29383d8dfa7de159ddb602a025235f9aa25b6f9db1fa01709b0",
+    "size": 132967,
     "plugins": [
-      "com.NpcAnimation.NpcAnimationPlugin"
+      "com.DeveloperTools.DeveloperToolsPlugin"
     ],
-    "displayName": "Npcanimation",
+    "displayName": "Developertools",
     "description": "",
     "provider": "trilapagg"
   },
@@ -77,13 +44,57 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "PlayerAnimation",
-    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
-    "size": 4476,
+    "internalName": "NpcAnimation",
+    "hash": "4ef22cc153544fac5149e8b7a51726a8be7b9031222ef39b9fb4f1718104df09",
+    "size": 6715,
     "plugins": [
-      "com.PlayerAnimation.PlayerAnimationPlugin"
+      "com.NpcAnimation.NpcAnimationPlugin"
     ],
-    "displayName": "Playeranimation",
+    "displayName": "Npcanimation",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "ItemIdentification",
+    "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
+    "size": 3612,
+    "plugins": [
+      "com.ItemIdentification.ItemIdentificationPlugin"
+    ],
+    "displayName": "Itemidentification",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "WorldPosition",
+    "hash": "3ef6613a95ec8fc8eecb76fe08ee4829b6ad40ed2e0efa74dd2f992ffc8da9a8",
+    "size": 4466,
+    "plugins": [
+      "com.WorldPosition.WorldPositionPlugin"
+    ],
+    "displayName": "Worldposition",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "AnythingHelper",
+    "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
+    "size": 4598,
+    "plugins": [
+      "com.AnythingHelper.AnythingHelperPlugin"
+    ],
+    "displayName": "Anythinghelper",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Cox",
+    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
+    "size": 33072,
+    "plugins": [
+      "com.Cox.CoxPlugin"
+    ],
+    "displayName": "Cox",
     "description": "",
     "provider": "trilapagg"
   }
