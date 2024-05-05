@@ -45,8 +45,8 @@
   },
   {
     "internalName": "TouchCamera",
-    "hash": "5eed2d97a8401bce2892bab590e83ccb94da04426a3feea66327cf175ecdc8ee",
-    "size": 411590,
+    "hash": "e69f97242a00911e2b76fb82da2f5bb3dacbc59c8ca482e6b497477072ae2593",
+    "size": 411593,
     "plugins": [
       "com.TouchCamera.TouchCameraPlugin"
     ],
