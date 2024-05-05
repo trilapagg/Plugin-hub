@@ -55,6 +55,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "TouchScreen",
+    "hash": "6eaa4349713542dddfa7addfc9c675274e86b3f1ae5e0672862ae56950a8cf08",
+    "size": 410052,
+    "plugins": [
+      "com.TouchScreen.TouchScreenPlugin"
+    ],
+    "displayName": "Touchscreen",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "LootTrackerPlus",
     "hash": "4d6c703cbf88df58aed416dab9827c1943d188516859f8d261cdb5cb0fbed77a",
     "size": 947582,
