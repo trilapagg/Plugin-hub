@@ -88,6 +88,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "TouchScreenPlugin",
+    "hash": "bd70ae341e5307e62b5762397639f4918818e53b52a597f363bb6dbefdbb002f",
+    "size": 419908,
+    "plugins": [
+      "com.TouchScreenPlugin.TouchScreenPluginPlugin"
+    ],
+    "displayName": "Touchscreenplugin",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "WorldPosition",
     "hash": "3ef6613a95ec8fc8eecb76fe08ee4829b6ad40ed2e0efa74dd2f992ffc8da9a8",
     "size": 4466,
