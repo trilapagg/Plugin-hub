@@ -89,8 +89,8 @@
   },
   {
     "internalName": "TouchScreenPlugin",
-    "hash": "bd70ae341e5307e62b5762397639f4918818e53b52a597f363bb6dbefdbb002f",
-    "size": 419908,
+    "hash": "582ee35d52823df35d6e838010afa8e904d686053f853a9d398d186a5ccc24da",
+    "size": 410052,
     "plugins": [
       "com.TouchScreenPlugin.TouchScreenPluginPlugin"
     ],
