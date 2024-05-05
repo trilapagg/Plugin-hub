@@ -44,6 +44,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "TouchCamera",
+    "hash": "5eed2d97a8401bce2892bab590e83ccb94da04426a3feea66327cf175ecdc8ee",
+    "size": 411590,
+    "plugins": [
+      "com.TouchCamera.TouchCameraPlugin"
+    ],
+    "displayName": "Touchcamera",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "LootTrackerPlus",
     "hash": "4d6c703cbf88df58aed416dab9827c1943d188516859f8d261cdb5cb0fbed77a",
     "size": 947582,
