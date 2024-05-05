@@ -11,17 +11,6 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Touchscreen",
-    "hash": "a3607be45f6c0ec1874a615c120b17219bd9f7ca16499c16cded844885f6170d",
-    "size": 410052,
-    "plugins": [
-      "com.Touchscreen.TouchscreenPlugin"
-    ],
-    "displayName": "Touchscreen",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "AnythingHelper",
     "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
     "size": 4598,
@@ -55,28 +44,6 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "TouchCamera",
-    "hash": "8c5311e20b8179cc54dade09cee3584e6522e307cd9800f16204f5734664b0d4",
-    "size": 411941,
-    "plugins": [
-      "com.TouchCamera.TouchCameraPlugin"
-    ],
-    "displayName": "Touchcamera",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "TouchScreen",
-    "hash": "3433efd68e1f0f86d25f346b88cb35ae68d93f85f7ffbec101e78d7e6b400e1d",
-    "size": 409987,
-    "plugins": [
-      "com.TouchScreen.TouchScreenPlugin"
-    ],
-    "displayName": "Touchscreen",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "LootTrackerPlus",
     "hash": "4d6c703cbf88df58aed416dab9827c1943d188516859f8d261cdb5cb0fbed77a",
     "size": 947582,
@@ -106,17 +73,6 @@
       "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
     ],
     "displayName": "Gauntletresourcehelper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "TouchScreenPlugin",
-    "hash": "582ee35d52823df35d6e838010afa8e904d686053f853a9d398d186a5ccc24da",
-    "size": 410052,
-    "plugins": [
-      "com.TouchScreenPlugin.TouchScreenPluginPlugin"
-    ],
-    "displayName": "Touchscreenplugin",
     "description": "",
     "provider": "trilapagg"
   },
