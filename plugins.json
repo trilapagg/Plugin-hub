@@ -11,6 +11,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Touchscreen",
+    "hash": "a3607be45f6c0ec1874a615c120b17219bd9f7ca16499c16cded844885f6170d",
+    "size": 410052,
+    "plugins": [
+      "com.Touchscreen.TouchscreenPlugin"
+    ],
+    "displayName": "Touchscreen",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "AnythingHelper",
     "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
     "size": 4598,
