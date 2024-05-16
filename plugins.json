@@ -1,27 +1,5 @@
 [
   {
-    "internalName": "Cox",
-    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
-    "size": 33072,
-    "plugins": [
-      "com.Cox.CoxPlugin"
-    ],
-    "displayName": "Cox",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "AnythingHelper",
-    "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
-    "size": 4598,
-    "plugins": [
-      "com.AnythingHelper.AnythingHelperPlugin"
-    ],
-    "displayName": "Anythinghelper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "DeveloperTools",
     "hash": "f73c745bf20da29383d8dfa7de159ddb602a025235f9aa25b6f9db1fa01709b0",
     "size": 132967,
@@ -29,50 +7,6 @@
       "com.DeveloperTools.DeveloperToolsPlugin"
     ],
     "displayName": "Developertools",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "PlayerAnimation",
-    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
-    "size": 4476,
-    "plugins": [
-      "com.PlayerAnimation.PlayerAnimationPlugin"
-    ],
-    "displayName": "Playeranimation",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "TouchScreen",
-    "hash": "f57b0286e3e1de3bf198c6d70fae54a1cec997eeeeec4683e2ec62d0419d416a",
-    "size": 409984,
-    "plugins": [
-      "com.TouchScreen.TouchScreenPlugin"
-    ],
-    "displayName": "Touchscreen",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "LootTrackerPlus",
-    "hash": "45ab3ec7b5918ca035037bc440664cd9991aa622c0e1f003fa81d8201b50f0b1",
-    "size": 947581,
-    "plugins": [
-      "com.LootTrackerPlus.LootTrackerPlusPlugin"
-    ],
-    "displayName": "Loottrackerplus",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Gauntlet",
-    "hash": "cbe11bdad7156be935046d60bc5c8345cc8f46dbd6484f58b2041e4895949d31",
-    "size": 56750,
-    "plugins": [
-      "com.Gauntlet.GauntletPlugin"
-    ],
-    "displayName": "Gauntlet",
     "description": "",
     "provider": "trilapagg"
   },
@@ -88,13 +22,24 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "WorldPosition",
-    "hash": "3ef6613a95ec8fc8eecb76fe08ee4829b6ad40ed2e0efa74dd2f992ffc8da9a8",
-    "size": 4466,
+    "internalName": "Cox",
+    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
+    "size": 33072,
     "plugins": [
-      "com.WorldPosition.WorldPositionPlugin"
+      "com.Cox.CoxPlugin"
     ],
-    "displayName": "Worldposition",
+    "displayName": "Cox",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Gauntlet",
+    "hash": "cbe11bdad7156be935046d60bc5c8345cc8f46dbd6484f58b2041e4895949d31",
+    "size": 56750,
+    "plugins": [
+      "com.Gauntlet.GauntletPlugin"
+    ],
+    "displayName": "Gauntlet",
     "description": "",
     "provider": "trilapagg"
   },
@@ -110,6 +55,39 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "PlayerAnimation",
+    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
+    "size": 4476,
+    "plugins": [
+      "com.PlayerAnimation.PlayerAnimationPlugin"
+    ],
+    "displayName": "Playeranimation",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "AnythingHelper",
+    "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
+    "size": 4598,
+    "plugins": [
+      "com.AnythingHelper.AnythingHelperPlugin"
+    ],
+    "displayName": "Anythinghelper",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "TouchScreen",
+    "hash": "f57b0286e3e1de3bf198c6d70fae54a1cec997eeeeec4683e2ec62d0419d416a",
+    "size": 409984,
+    "plugins": [
+      "com.TouchScreen.TouchScreenPlugin"
+    ],
+    "displayName": "Touchscreen",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "NpcAnimation",
     "hash": "4ef22cc153544fac5149e8b7a51726a8be7b9031222ef39b9fb4f1718104df09",
     "size": 6715,
@@ -117,6 +95,39 @@
       "com.NpcAnimation.NpcAnimationPlugin"
     ],
     "displayName": "Npcanimation",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "IdleVisualAlarm",
+    "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
+    "size": 4314,
+    "plugins": [
+      "com.IdleVisualAlarm.IdleVisualAlarmPlugin"
+    ],
+    "displayName": "Idlevisualalarm",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "LootTrackerPlus",
+    "hash": "45ab3ec7b5918ca035037bc440664cd9991aa622c0e1f003fa81d8201b50f0b1",
+    "size": 947581,
+    "plugins": [
+      "com.LootTrackerPlus.LootTrackerPlusPlugin"
+    ],
+    "displayName": "Loottrackerplus",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "WorldPosition",
+    "hash": "3ef6613a95ec8fc8eecb76fe08ee4829b6ad40ed2e0efa74dd2f992ffc8da9a8",
+    "size": 4466,
+    "plugins": [
+      "com.WorldPosition.WorldPositionPlugin"
+    ],
+    "displayName": "Worldposition",
     "description": "",
     "provider": "trilapagg"
   }
