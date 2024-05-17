@@ -22,6 +22,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "PVPTrackerPlus",
+    "hash": "f615244bab5fd8c2c9ad3e9478a1f7041a5a21d21bb4c05b3a33ae9751fd5067",
+    "size": 19567,
+    "plugins": [
+      "com.PVPTrackerPlus.PVPTrackerPlusPlugin"
+    ],
+    "displayName": "Pvptrackerplus",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "Cox",
     "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
     "size": 33072,
