@@ -23,8 +23,8 @@
   },
   {
     "internalName": "PVPTrackerPlus",
-    "hash": "f615244bab5fd8c2c9ad3e9478a1f7041a5a21d21bb4c05b3a33ae9751fd5067",
-    "size": 19567,
+    "hash": "366b31638d9d286fcef235752c4e1a2b84ec9ecfcf8fa552fd04722a9941b09c",
+    "size": 19566,
     "plugins": [
       "com.PVPTrackerPlus.PVPTrackerPlusPlugin"
     ],
