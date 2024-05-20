@@ -22,6 +22,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "ItemHop",
+    "hash": "ac99a47694dfff019626245dd3a8acda0f67e22f47a73b5e63e3c5319c83e043",
+    "size": 5078,
+    "plugins": [
+      "com.ItemHop.ItemHopPlugin"
+    ],
+    "displayName": "Itemhop",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "PVPTrackerPlus",
     "hash": "366b31638d9d286fcef235752c4e1a2b84ec9ecfcf8fa552fd04722a9941b09c",
     "size": 19566,
