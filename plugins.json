@@ -23,8 +23,8 @@
   },
   {
     "internalName": "ItemHop",
-    "hash": "c8fe5459c9c6b706504e10726608aafeab7291eaaa8b10f29ee7ab197f929ef0",
-    "size": 5236,
+    "hash": "86203f86fad2f8fdbea9a4e91d3aa5346c8f92606b2181fcf3a2d75e5f705b52",
+    "size": 5251,
     "plugins": [
       "com.ItemHop.ItemHopPlugin"
     ],
