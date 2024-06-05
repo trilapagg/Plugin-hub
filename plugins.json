@@ -99,6 +99,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "AccountWorldFollower",
+    "hash": "613190a742715c20282d7cca307b3af2667f5849a910a188d1174e3621503011",
+    "size": 3334,
+    "plugins": [
+      "com.AccountWorldFollower.AccountWorldFollowerPlugin"
+    ],
+    "displayName": "Accountworldfollower",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "AnythingHelper",
     "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
     "size": 4598,
