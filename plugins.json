@@ -89,8 +89,8 @@
   },
   {
     "internalName": "AccountWorldFollower",
-    "hash": "613190a742715c20282d7cca307b3af2667f5849a910a188d1174e3621503011",
-    "size": 3334,
+    "hash": "d196976f7f40b4672a1292113d16621d014f203086cf765dfc75c58b32f474a0",
+    "size": 5503,
     "plugins": [
       "com.AccountWorldFollower.AccountWorldFollowerPlugin"
     ],
