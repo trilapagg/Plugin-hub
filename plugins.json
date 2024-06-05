@@ -33,6 +33,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "NewPrivateRepo",
+    "hash": "86221bdbe6f9b4aa6b1e92f7eb4fe343cee320b5d54ba99fa0f4d32c3c37b7a8",
+    "size": 3214,
+    "plugins": [
+      "com.NewPrivateRepo.NewPrivateRepoPlugin"
+    ],
+    "displayName": "Newprivaterepo",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "PVPTrackerPlus",
     "hash": "366b31638d9d286fcef235752c4e1a2b84ec9ecfcf8fa552fd04722a9941b09c",
     "size": 19566,
