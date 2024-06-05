@@ -34,7 +34,7 @@
   },
   {
     "internalName": "NewPrivateRepo",
-    "hash": "86221bdbe6f9b4aa6b1e92f7eb4fe343cee320b5d54ba99fa0f4d32c3c37b7a8",
+    "hash": "9122d778081f18f0a27c611e89842f9b8338026553d89c75b95b26612622dbec",
     "size": 3214,
     "plugins": [
       "com.NewPrivateRepo.NewPrivateRepoPlugin"
