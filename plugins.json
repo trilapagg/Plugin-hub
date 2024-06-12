@@ -88,6 +88,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Gorilla",
+    "hash": "da74ac2b68bd94d5e6657816383a599320ca7ab95c45a1bd8ca8145eed4f23f8",
+    "size": 3072,
+    "plugins": [
+      "com.Gorilla.GorillaPlugin"
+    ],
+    "displayName": "Gorilla",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "PlayerAnimation",
     "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
     "size": 4476,
