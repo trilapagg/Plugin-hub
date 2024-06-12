@@ -77,6 +77,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Areatiles",
+    "hash": "95019baffe4e9f8f0d87610bdc28f8e867ddb35648df18b7d6333ad5f57fadd4",
+    "size": 3108,
+    "plugins": [
+      "com.Areatiles.AreatilesPlugin"
+    ],
+    "displayName": "Areatiles",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "PlayerAnimation",
     "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
     "size": 4476,
