@@ -78,8 +78,8 @@
   },
   {
     "internalName": "Areatiles",
-    "hash": "95019baffe4e9f8f0d87610bdc28f8e867ddb35648df18b7d6333ad5f57fadd4",
-    "size": 3108,
+    "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
+    "size": 28029,
     "plugins": [
       "com.Areatiles.AreatilesPlugin"
     ],
