@@ -89,8 +89,8 @@
   },
   {
     "internalName": "Gorilla",
-    "hash": "da74ac2b68bd94d5e6657816383a599320ca7ab95c45a1bd8ca8145eed4f23f8",
-    "size": 3072,
+    "hash": "9a8b546e145b1fda22eaaef57acd378316886cabe03caf8929f6168be5afbc5f",
+    "size": 20036,
     "plugins": [
       "com.Gorilla.GorillaPlugin"
     ],
