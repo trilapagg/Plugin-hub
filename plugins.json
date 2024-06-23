@@ -1,71 +1,5 @@
 [
   {
-    "internalName": "DeveloperTools",
-    "hash": "f73c745bf20da29383d8dfa7de159ddb602a025235f9aa25b6f9db1fa01709b0",
-    "size": 132967,
-    "plugins": [
-      "com.DeveloperTools.DeveloperToolsPlugin"
-    ],
-    "displayName": "Developertools",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "GauntletResourceHelper",
-    "hash": "4f6045d54186b09d5687e482d27127e53e55942b0d454935560657acb387fec4",
-    "size": 34853,
-    "plugins": [
-      "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
-    ],
-    "displayName": "Gauntletresourcehelper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "ItemHop",
-    "hash": "86203f86fad2f8fdbea9a4e91d3aa5346c8f92606b2181fcf3a2d75e5f705b52",
-    "size": 5251,
-    "plugins": [
-      "com.ItemHop.ItemHopPlugin"
-    ],
-    "displayName": "Itemhop",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "PVPTrackerPlus",
-    "hash": "366b31638d9d286fcef235752c4e1a2b84ec9ecfcf8fa552fd04722a9941b09c",
-    "size": 19566,
-    "plugins": [
-      "com.PVPTrackerPlus.PVPTrackerPlusPlugin"
-    ],
-    "displayName": "Pvptrackerplus",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Cox",
-    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
-    "size": 33072,
-    "plugins": [
-      "com.Cox.CoxPlugin"
-    ],
-    "displayName": "Cox",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Gauntlet",
-    "hash": "7a1fd510631b1f0dce3be10ef738f1144b10acc935d3d0a22a2ea75f62d22cfc",
-    "size": 56745,
-    "plugins": [
-      "com.Gauntlet.GauntletPlugin"
-    ],
-    "displayName": "Gauntlet",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "ItemIdentification",
     "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
     "size": 3612,
@@ -77,13 +11,13 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Areatiles",
-    "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
-    "size": 28029,
+    "internalName": "PlayerAnimation",
+    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
+    "size": 4476,
     "plugins": [
-      "com.Areatiles.AreatilesPlugin"
+      "com.PlayerAnimation.PlayerAnimationPlugin"
     ],
-    "displayName": "Areatiles",
+    "displayName": "Playeranimation",
     "description": "",
     "provider": "trilapagg"
   },
@@ -99,13 +33,79 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "PlayerAnimation",
-    "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
-    "size": 4476,
+    "internalName": "DeveloperTools",
+    "hash": "f73c745bf20da29383d8dfa7de159ddb602a025235f9aa25b6f9db1fa01709b0",
+    "size": 132967,
     "plugins": [
-      "com.PlayerAnimation.PlayerAnimationPlugin"
+      "com.DeveloperTools.DeveloperToolsPlugin"
     ],
-    "displayName": "Playeranimation",
+    "displayName": "Developertools",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "TouchScreen",
+    "hash": "f57b0286e3e1de3bf198c6d70fae54a1cec997eeeeec4683e2ec62d0419d416a",
+    "size": 409984,
+    "plugins": [
+      "com.TouchScreen.TouchScreenPlugin"
+    ],
+    "displayName": "Touchscreen",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "IdleVisualAlarm",
+    "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
+    "size": 4314,
+    "plugins": [
+      "com.IdleVisualAlarm.IdleVisualAlarmPlugin"
+    ],
+    "displayName": "Idlevisualalarm",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "ItemHop",
+    "hash": "86203f86fad2f8fdbea9a4e91d3aa5346c8f92606b2181fcf3a2d75e5f705b52",
+    "size": 5251,
+    "plugins": [
+      "com.ItemHop.ItemHopPlugin"
+    ],
+    "displayName": "Itemhop",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Gauntlet",
+    "hash": "7a1fd510631b1f0dce3be10ef738f1144b10acc935d3d0a22a2ea75f62d22cfc",
+    "size": 56745,
+    "plugins": [
+      "com.Gauntlet.GauntletPlugin"
+    ],
+    "displayName": "Gauntlet",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "LootTrackerPlus",
+    "hash": "45ab3ec7b5918ca035037bc440664cd9991aa622c0e1f003fa81d8201b50f0b1",
+    "size": 947581,
+    "plugins": [
+      "com.LootTrackerPlus.LootTrackerPlusPlugin"
+    ],
+    "displayName": "Loottrackerplus",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "GauntletResourceHelper",
+    "hash": "4f6045d54186b09d5687e482d27127e53e55942b0d454935560657acb387fec4",
+    "size": 34853,
+    "plugins": [
+      "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
+    ],
+    "displayName": "Gauntletresourcehelper",
     "description": "",
     "provider": "trilapagg"
   },
@@ -132,13 +132,24 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "TouchScreen",
-    "hash": "f57b0286e3e1de3bf198c6d70fae54a1cec997eeeeec4683e2ec62d0419d416a",
-    "size": 409984,
+    "internalName": "Datafeed",
+    "hash": "4c4673209336720bbb34bc8d11e1a44e45fc444617e6e527621a154870ad46de",
+    "size": 3093,
     "plugins": [
-      "com.TouchScreen.TouchScreenPlugin"
+      "com.Datafeed.DatafeedPlugin"
     ],
-    "displayName": "Touchscreen",
+    "displayName": "Datafeed",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Cox",
+    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
+    "size": 33072,
+    "plugins": [
+      "com.Cox.CoxPlugin"
+    ],
+    "displayName": "Cox",
     "description": "",
     "provider": "trilapagg"
   },
@@ -154,24 +165,24 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "IdleVisualAlarm",
-    "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
-    "size": 4314,
+    "internalName": "Areatiles",
+    "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
+    "size": 28029,
     "plugins": [
-      "com.IdleVisualAlarm.IdleVisualAlarmPlugin"
+      "com.Areatiles.AreatilesPlugin"
     ],
-    "displayName": "Idlevisualalarm",
+    "displayName": "Areatiles",
     "description": "",
     "provider": "trilapagg"
   },
   {
-    "internalName": "LootTrackerPlus",
-    "hash": "45ab3ec7b5918ca035037bc440664cd9991aa622c0e1f003fa81d8201b50f0b1",
-    "size": 947581,
+    "internalName": "PVPTrackerPlus",
+    "hash": "366b31638d9d286fcef235752c4e1a2b84ec9ecfcf8fa552fd04722a9941b09c",
+    "size": 19566,
     "plugins": [
-      "com.LootTrackerPlus.LootTrackerPlusPlugin"
+      "com.PVPTrackerPlus.PVPTrackerPlusPlugin"
     ],
-    "displayName": "Loottrackerplus",
+    "displayName": "Pvptrackerplus",
     "description": "",
     "provider": "trilapagg"
   },
