@@ -121,6 +121,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Barbfishing",
+    "hash": "5af4c7c3d93185a5124aa3ca216a5540f5554cdc89d25bd1e3445902a1daf927",
+    "size": 3152,
+    "plugins": [
+      "com.Barbfishing.BarbfishingPlugin"
+    ],
+    "displayName": "Barbfishing",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "AnythingHelper",
     "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
     "size": 4598,
