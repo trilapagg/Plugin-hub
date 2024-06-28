@@ -122,8 +122,8 @@
   },
   {
     "internalName": "Barbfishing",
-    "hash": "45bbc774f078a5afcc46edadc840568eeb2e8bda4ea0ecb995ec5a0098628471",
-    "size": 6202,
+    "hash": "0ec57a6b613aa2b8489b2721525589335d996b9a0fe28d95d6c43e0f3e4d986c",
+    "size": 8319,
     "plugins": [
       "com.Barbfishing.BarbfishingPlugin"
     ],
