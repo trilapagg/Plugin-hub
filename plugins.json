@@ -45,8 +45,8 @@
   },
   {
     "internalName": "Skillhider",
-    "hash": "555435267830179450a2b23b3496784b66dda845c6a5a7cf9e580a003dd3f55f",
-    "size": 10115,
+    "hash": "3f9a18788d7e173fb16101a6d856efcc7bd69992d7f6945e6f76121d0615cb30",
+    "size": 10414,
     "plugins": [
       "com.Skillhider.SkillhiderPlugin"
     ],
