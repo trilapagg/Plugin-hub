@@ -44,6 +44,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Skillhider",
+    "hash": "f52621bba4a13118e830a3318c821a5602a46168a218bbe90437c380ba55f4d7",
+    "size": 8283,
+    "plugins": [
+      "com.Skillhider.SkillhiderPlugin"
+    ],
+    "displayName": "Skillhider",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "TouchScreen",
     "hash": "f57b0286e3e1de3bf198c6d70fae54a1cec997eeeeec4683e2ec62d0419d416a",
     "size": 409984,
