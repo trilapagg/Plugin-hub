@@ -1,12 +1,34 @@
 [
   {
-    "internalName": "ItemIdentification",
-    "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
-    "size": 3612,
+    "internalName": "Areatiles",
+    "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
+    "size": 28029,
     "plugins": [
-      "com.ItemIdentification.ItemIdentificationPlugin"
+      "com.Areatiles.AreatilesPlugin"
     ],
-    "displayName": "Itemidentification",
+    "displayName": "Areatiles",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Cox",
+    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
+    "size": 33072,
+    "plugins": [
+      "com.Cox.CoxPlugin"
+    ],
+    "displayName": "Cox",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "AnythingHelper",
+    "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
+    "size": 4598,
+    "plugins": [
+      "com.AnythingHelper.AnythingHelperPlugin"
+    ],
+    "displayName": "Anythinghelper",
     "description": "",
     "provider": "trilapagg"
   },
@@ -22,24 +44,35 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Gorilla",
-    "hash": "9a8b546e145b1fda22eaaef57acd378316886cabe03caf8929f6168be5afbc5f",
-    "size": 20036,
+    "internalName": "Barbfishing",
+    "hash": "0e7643129ab57a03a902e75241ad874e92bcffb90b892b49354f85bef43019fa",
+    "size": 9363,
     "plugins": [
-      "com.Gorilla.GorillaPlugin"
+      "com.Barbfishing.BarbfishingPlugin"
     ],
-    "displayName": "Gorilla",
+    "displayName": "Barbfishing",
     "description": "",
     "provider": "trilapagg"
   },
   {
-    "internalName": "DeveloperTools",
-    "hash": "ee692090d209e31a8df48540a27d9d752cbec113ba554b02c0c268f6be4498bd",
-    "size": 140383,
+    "internalName": "IdleVisualAlarm",
+    "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
+    "size": 4314,
     "plugins": [
-      "com.DeveloperTools.DeveloperToolsPlugin"
+      "com.IdleVisualAlarm.IdleVisualAlarmPlugin"
     ],
-    "displayName": "Developertools",
+    "displayName": "Idlevisualalarm",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "LootTrackerPlus",
+    "hash": "45ab3ec7b5918ca035037bc440664cd9991aa622c0e1f003fa81d8201b50f0b1",
+    "size": 947581,
+    "plugins": [
+      "com.LootTrackerPlus.LootTrackerPlusPlugin"
+    ],
+    "displayName": "Loottrackerplus",
     "description": "",
     "provider": "trilapagg"
   },
@@ -66,94 +99,6 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "IdleVisualAlarm",
-    "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
-    "size": 4314,
-    "plugins": [
-      "com.IdleVisualAlarm.IdleVisualAlarmPlugin"
-    ],
-    "displayName": "Idlevisualalarm",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "ItemHop",
-    "hash": "86203f86fad2f8fdbea9a4e91d3aa5346c8f92606b2181fcf3a2d75e5f705b52",
-    "size": 5251,
-    "plugins": [
-      "com.ItemHop.ItemHopPlugin"
-    ],
-    "displayName": "Itemhop",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Gauntlet",
-    "hash": "7a1fd510631b1f0dce3be10ef738f1144b10acc935d3d0a22a2ea75f62d22cfc",
-    "size": 56745,
-    "plugins": [
-      "com.Gauntlet.GauntletPlugin"
-    ],
-    "displayName": "Gauntlet",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "LootTrackerPlus",
-    "hash": "45ab3ec7b5918ca035037bc440664cd9991aa622c0e1f003fa81d8201b50f0b1",
-    "size": 947581,
-    "plugins": [
-      "com.LootTrackerPlus.LootTrackerPlusPlugin"
-    ],
-    "displayName": "Loottrackerplus",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "GauntletResourceHelper",
-    "hash": "4f6045d54186b09d5687e482d27127e53e55942b0d454935560657acb387fec4",
-    "size": 34853,
-    "plugins": [
-      "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
-    ],
-    "displayName": "Gauntletresourcehelper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "AccountWorldFollower",
-    "hash": "f4a8c8c909da7955089eac0a555c44661b58e8984f0a2209f1d712f41bb0c59c",
-    "size": 6991,
-    "plugins": [
-      "com.AccountWorldFollower.AccountWorldFollowerPlugin"
-    ],
-    "displayName": "Accountworldfollower",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Barbfishing",
-    "hash": "0e7643129ab57a03a902e75241ad874e92bcffb90b892b49354f85bef43019fa",
-    "size": 9363,
-    "plugins": [
-      "com.Barbfishing.BarbfishingPlugin"
-    ],
-    "displayName": "Barbfishing",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "AnythingHelper",
-    "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
-    "size": 4598,
-    "plugins": [
-      "com.AnythingHelper.AnythingHelperPlugin"
-    ],
-    "displayName": "Anythinghelper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "Datafeed",
     "hash": "c7b3fd91548178458afe2aaeb97a01f14f01843ba94a4623197257645041be74",
     "size": 28840,
@@ -165,13 +110,13 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Cox",
-    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
-    "size": 33072,
+    "internalName": "ItemIdentification",
+    "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
+    "size": 3612,
     "plugins": [
-      "com.Cox.CoxPlugin"
+      "com.ItemIdentification.ItemIdentificationPlugin"
     ],
-    "displayName": "Cox",
+    "displayName": "Itemidentification",
     "description": "",
     "provider": "trilapagg"
   },
@@ -187,13 +132,57 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Areatiles",
-    "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
-    "size": 28029,
+    "internalName": "AccountWorldFollower",
+    "hash": "f4a8c8c909da7955089eac0a555c44661b58e8984f0a2209f1d712f41bb0c59c",
+    "size": 6991,
     "plugins": [
-      "com.Areatiles.AreatilesPlugin"
+      "com.AccountWorldFollower.AccountWorldFollowerPlugin"
     ],
-    "displayName": "Areatiles",
+    "displayName": "Accountworldfollower",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "DeveloperTools",
+    "hash": "ee692090d209e31a8df48540a27d9d752cbec113ba554b02c0c268f6be4498bd",
+    "size": 140383,
+    "plugins": [
+      "com.DeveloperTools.DeveloperToolsPlugin"
+    ],
+    "displayName": "Developertools",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Gorilla",
+    "hash": "9a8b546e145b1fda22eaaef57acd378316886cabe03caf8929f6168be5afbc5f",
+    "size": 20036,
+    "plugins": [
+      "com.Gorilla.GorillaPlugin"
+    ],
+    "displayName": "Gorilla",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "WorldPosition",
+    "hash": "2a7ab32a7a36fc59a2001dfa04d8d2985ed678ff0522f0eb05af38266df37e39",
+    "size": 4466,
+    "plugins": [
+      "com.WorldPosition.WorldPositionPlugin"
+    ],
+    "displayName": "Worldposition",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Gauntlet",
+    "hash": "7a1fd510631b1f0dce3be10ef738f1144b10acc935d3d0a22a2ea75f62d22cfc",
+    "size": 56745,
+    "plugins": [
+      "com.Gauntlet.GauntletPlugin"
+    ],
+    "displayName": "Gauntlet",
     "description": "",
     "provider": "trilapagg"
   },
@@ -209,13 +198,35 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "WorldPosition",
-    "hash": "2a7ab32a7a36fc59a2001dfa04d8d2985ed678ff0522f0eb05af38266df37e39",
-    "size": 4466,
+    "internalName": "ItemHop",
+    "hash": "86203f86fad2f8fdbea9a4e91d3aa5346c8f92606b2181fcf3a2d75e5f705b52",
+    "size": 5251,
     "plugins": [
-      "com.WorldPosition.WorldPositionPlugin"
+      "com.ItemHop.ItemHopPlugin"
     ],
-    "displayName": "Worldposition",
+    "displayName": "Itemhop",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "TektonHelper",
+    "hash": "df0cbe4986e99591cb89cdc8ee49cb044a380b600595f5b2102705c105ba97ad",
+    "size": 9719,
+    "plugins": [
+      "com.TektonHelper.TektonHelperPlugin"
+    ],
+    "displayName": "Tektonhelper",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "GauntletResourceHelper",
+    "hash": "4f6045d54186b09d5687e482d27127e53e55942b0d454935560657acb387fec4",
+    "size": 34853,
+    "plugins": [
+      "com.GauntletResourceHelper.GauntletResourceHelperPlugin"
+    ],
+    "displayName": "Gauntletresourcehelper",
     "description": "",
     "provider": "trilapagg"
   }
