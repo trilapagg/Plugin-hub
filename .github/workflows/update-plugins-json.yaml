@@ -36,11 +36,9 @@ jobs:
           new_branch: "main"
           push: true
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Discord Message
-        uses: discord-actions/message@v2
-        with:
-          webhookUrl: https://discord.com/api/webhooks/1264008774633394339/YljXv6IGspEUpICiJwpSOj7H_12uNMHESYc1oJQoGr3756R7B5ThFDJGiz0YJxdBqzM9
-          message: "Plugin Hub Updated."
-          username: "Personal Plugin Hub"
-          avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+
+      - name: Send Discord Notification
+        run: |
+          curl -H "Content-Type: application/json" \
+               -d '{"content": "Plugin Hub Updated."}' \
+               https://discord.com/api/webhooks/1264008774633394339/YljXv6IGspEUpICiJwpSOj7H_12uNMHESYc1oJQoGr3756R7B5ThFDJGiz0YJxdBqzM9
