@@ -9,7 +9,6 @@ on:
 permissions:
   contents: write
 
-  
 jobs:
   generate-and-commit-plugins-json:
     runs-on: ubuntu-latest
@@ -26,6 +25,7 @@ jobs:
         run: |
           python ./hashmaker.py
           # Ensure hashmaker.py outputs plugins.json in the root directory
+          
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.4
         with:
@@ -35,5 +35,12 @@ jobs:
           message: "Update plugins.json"
           new_branch: "main"
           push: true
-          # Use the default GitHub token or your PAT for operations requiring GitHub API access
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Discord Message
+        uses: discord-actions/message@v2
+        with:
+          webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          message: "Plugin Hub Updated."
+          username: "Personal Plugin Hub"
+          avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
