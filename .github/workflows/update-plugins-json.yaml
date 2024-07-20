@@ -40,7 +40,7 @@ jobs:
       - name: Discord Message
         uses: discord-actions/message@v2
         with:
-          webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          webhookUrl: https://discord.com/api/webhooks/1264008774633394339/YljXv6IGspEUpICiJwpSOj7H_12uNMHESYc1oJQoGr3756R7B5ThFDJGiz0YJxdBqzM9
           message: "Plugin Hub Updated."
           username: "Personal Plugin Hub"
           avatar: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
