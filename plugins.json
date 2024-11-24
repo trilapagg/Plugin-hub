@@ -229,5 +229,16 @@
     "displayName": "Gauntletresourcehelper",
     "description": "",
     "provider": "trilapagg"
+  },
+  {
+    "internalName": "EasyMixology",
+    "hash": "990e5077ce07aa00e5520e83263387b5bd961f294a73db6e02b78a6a3d9373ef",
+    "size": 8333,
+    "plugins": [
+      "com.EasyMixology.EasyMixologyPlugin"
+    ],
+    "displayName": "Easymixology",
+    "description": "",
+    "provider": "trilapagg"
   }
 ]
