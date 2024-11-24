@@ -232,8 +232,8 @@
   },
   {
     "internalName": "EasyMixology",
-    "hash": "3fbb35a62708ed8344e8a7c1f72403824ec87d27dede0db92b7c4f576aa52d71",
-    "size": 40961,
+    "hash": "3ad489eb3a67bcaa879b06abdc771aa8206df78f1f588ac1dba4d7371dffe2b8",
+    "size": 40941,
     "plugins": [
       "com.EasyMixology.EasyMixologyPlugin"
     ],
