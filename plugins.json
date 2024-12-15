@@ -220,6 +220,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "IdDropper",
+    "hash": "4c518a43175f1a3b2a58951918464d5369fcd883a74551c147473c53fded5b4e",
+    "size": 8256,
+    "plugins": [
+      "com.IdDropper.IdDropperPlugin"
+    ],
+    "displayName": "Iddropper",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "GauntletResourceHelper",
     "hash": "4f6045d54186b09d5687e482d27127e53e55942b0d454935560657acb387fec4",
     "size": 34853,
