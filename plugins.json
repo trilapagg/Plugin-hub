@@ -221,8 +221,8 @@
   },
   {
     "internalName": "IdDropper",
-    "hash": "f9732a315122b9afca8002613ee2831c5f6958a7e160a2d7216582bcd9ca588a",
-    "size": 10265,
+    "hash": "ef94a8d768d9c94eaf37b512e044d4398c3d1c44253714c6c6a06501d4a4e8da",
+    "size": 10024,
     "plugins": [
       "com.IdDropper.IdDropperPlugin"
     ],
