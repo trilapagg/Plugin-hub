@@ -132,6 +132,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Customcustom",
+    "hash": "af5afd148e108395d9faf2599c29aebc34cf1a3853129b66a2b9a314640400ad",
+    "size": 8314,
+    "plugins": [
+      "com.Customcustom.CustomcustomPlugin"
+    ],
+    "displayName": "Customcustom",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "IdleVisualAlarm",
     "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
     "size": 4314,
