@@ -133,8 +133,8 @@
   },
   {
     "internalName": "Customcustom",
-    "hash": "ee086ec63dd3cf9fa0c616b777d97ff32bcc3ab63f1ddb09ad6215f5cb53fd9f",
-    "size": 33098,
+    "hash": "c1248a5ff0fd0a9a64052bd307435111631c90b22bbd0dd25ca5a867d41ce3ea",
+    "size": 33188,
     "plugins": [
       "com.Customcustom.CustomcustomPlugin"
     ],
