@@ -111,8 +111,8 @@
   },
   {
     "internalName": "FlinchTimer",
-    "hash": "8947f3802c750bbf947a9d7591888498d3db2a446c14d01d8dea6f7e1bc10f38",
-    "size": 8303,
+    "hash": "60966eaff070656f514682eb7c7746c3ffdf7fb00d97a53503a40b21135d12e0",
+    "size": 12436,
     "plugins": [
       "com.FlinchTimer.FlinchTimerPlugin"
     ],
