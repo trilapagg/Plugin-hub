@@ -154,6 +154,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Shortestpath",
+    "hash": "f8399179c4078a82198419aeaeefa0dd22b3b2c429afaebd96b7ba182d002511",
+    "size": 8328,
+    "plugins": [
+      "com.Shortestpath.ShortestpathPlugin"
+    ],
+    "displayName": "Shortestpath",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "Datafeed",
     "hash": "1868c84e669e429748a310b6ef6d51ac0164d0f0d7ef6d62219519484e82e512",
     "size": 42031,
