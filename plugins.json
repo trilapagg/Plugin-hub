@@ -199,8 +199,8 @@
   },
   {
     "internalName": "Datafeed",
-    "hash": "d5025d15acff638270afe47428ae7ad26ed67125f05081740981a64120b62984",
-    "size": 55331,
+    "hash": "3c651b7b689a9edf16cdc09689a67e5fa9f478931b01401ed727515907940be7",
+    "size": 55332,
     "plugins": [
       "com.Datafeed.DatafeedPlugin"
     ],
