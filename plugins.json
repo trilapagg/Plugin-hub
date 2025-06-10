@@ -1,12 +1,34 @@
 [
   {
-    "internalName": "NpcAnimation",
-    "hash": "4ef22cc153544fac5149e8b7a51726a8be7b9031222ef39b9fb4f1718104df09",
-    "size": 6715,
+    "internalName": "IdleVisualAlarm",
+    "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
+    "size": 4314,
     "plugins": [
-      "com.NpcAnimation.NpcAnimationPlugin"
+      "com.IdleVisualAlarm.IdleVisualAlarmPlugin"
     ],
-    "displayName": "Npcanimation",
+    "displayName": "Idlevisualalarm",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "PVPTrackerPlus",
+    "hash": "366b31638d9d286fcef235752c4e1a2b84ec9ecfcf8fa552fd04722a9941b09c",
+    "size": 19566,
+    "plugins": [
+      "com.PVPTrackerPlus.PVPTrackerPlusPlugin"
+    ],
+    "displayName": "Pvptrackerplus",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "IdDropper",
+    "hash": "b3c718f81f596b470f5fb060c5df9eda53cd74f55d2dc481818561e6159572f4",
+    "size": 9910,
+    "plugins": [
+      "com.IdDropper.IdDropperPlugin"
+    ],
+    "displayName": "Iddropper",
     "description": "",
     "provider": "trilapagg"
   },
@@ -22,13 +44,134 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Cox",
-    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
-    "size": 33072,
+    "internalName": "Gauntlet",
+    "hash": "bb819e9ab0b5d603503168527f3b30661b86c34a05e07f9446b05917e3bc5937",
+    "size": 56745,
     "plugins": [
-      "com.Cox.CoxPlugin"
+      "com.Gauntlet.GauntletPlugin"
     ],
-    "displayName": "Cox",
+    "displayName": "Gauntlet",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Datafeed",
+    "hash": "178408fc2b3dbbed8d78960d2dc364b8cff26a14265fc4f4d0dd1d9da3e9e294",
+    "size": 63294,
+    "plugins": [
+      "com.Datafeed.DatafeedPlugin"
+    ],
+    "displayName": "Datafeed",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "ItemIdentification",
+    "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
+    "size": 3612,
+    "plugins": [
+      "com.ItemIdentification.ItemIdentificationPlugin"
+    ],
+    "displayName": "Itemidentification",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Shortestpath",
+    "hash": "f8399179c4078a82198419aeaeefa0dd22b3b2c429afaebd96b7ba182d002511",
+    "size": 8328,
+    "plugins": [
+      "com.Shortestpath.ShortestpathPlugin"
+    ],
+    "displayName": "Shortestpath",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Gorilla",
+    "hash": "9a8b546e145b1fda22eaaef57acd378316886cabe03caf8929f6168be5afbc5f",
+    "size": 20036,
+    "plugins": [
+      "com.Gorilla.GorillaPlugin"
+    ],
+    "displayName": "Gorilla",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Areatiles",
+    "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
+    "size": 28029,
+    "plugins": [
+      "com.Areatiles.AreatilesPlugin"
+    ],
+    "displayName": "Areatiles",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "WorldPosition",
+    "hash": "2a7ab32a7a36fc59a2001dfa04d8d2985ed678ff0522f0eb05af38266df37e39",
+    "size": 4466,
+    "plugins": [
+      "com.WorldPosition.WorldPositionPlugin"
+    ],
+    "displayName": "Worldposition",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Customcustom",
+    "hash": "6318173a63dabf1b36a61bce65a994048b4ff491727d2d3ad81817b5926af739",
+    "size": 48453,
+    "plugins": [
+      "com.Customcustom.CustomcustomPlugin"
+    ],
+    "displayName": "Customcustom",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "TouchScreen",
+    "hash": "f57b0286e3e1de3bf198c6d70fae54a1cec997eeeeec4683e2ec62d0419d416a",
+    "size": 409984,
+    "plugins": [
+      "com.TouchScreen.TouchScreenPlugin"
+    ],
+    "displayName": "Touchscreen",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "AccountWorldFollower",
+    "hash": "f4a8c8c909da7955089eac0a555c44661b58e8984f0a2209f1d712f41bb0c59c",
+    "size": 6991,
+    "plugins": [
+      "com.AccountWorldFollower.AccountWorldFollowerPlugin"
+    ],
+    "displayName": "Accountworldfollower",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "ItemHop",
+    "hash": "86203f86fad2f8fdbea9a4e91d3aa5346c8f92606b2181fcf3a2d75e5f705b52",
+    "size": 5251,
+    "plugins": [
+      "com.ItemHop.ItemHopPlugin"
+    ],
+    "displayName": "Itemhop",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "EasyMixology",
+    "hash": "142162e03fe0bda452cbd1139e8ddf6007235fdbe254e6ef186428053fae90b8",
+    "size": 46901,
+    "plugins": [
+      "com.EasyMixology.EasyMixologyPlugin"
+    ],
+    "displayName": "Easymixology",
     "description": "",
     "provider": "trilapagg"
   },
@@ -45,8 +188,8 @@
   },
   {
     "internalName": "LootTrackerPlus",
-    "hash": "389d33162e95328d2fa268a7e6adf7c0b1c96f36aa9dc4c09ec8beb3f93ac7aa",
-    "size": 969014,
+    "hash": "a367bcd64d58992c9a26e7ea6600661eef6769328a32c62fc376813d394d4618",
+    "size": 968465,
     "plugins": [
       "com.LootTrackerPlus.LootTrackerPlusPlugin"
     ],
@@ -55,101 +198,13 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "PVPTrackerPlus",
-    "hash": "366b31638d9d286fcef235752c4e1a2b84ec9ecfcf8fa552fd04722a9941b09c",
-    "size": 19566,
+    "internalName": "NpcAnimation",
+    "hash": "4ef22cc153544fac5149e8b7a51726a8be7b9031222ef39b9fb4f1718104df09",
+    "size": 6715,
     "plugins": [
-      "com.PVPTrackerPlus.PVPTrackerPlusPlugin"
+      "com.NpcAnimation.NpcAnimationPlugin"
     ],
-    "displayName": "Pvptrackerplus",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "ItemIdentification",
-    "hash": "50c91be0b01837d0fb2ae6406b9b3b2f126804fb58e446bb182df45d708edb26",
-    "size": 3612,
-    "plugins": [
-      "com.ItemIdentification.ItemIdentificationPlugin"
-    ],
-    "displayName": "Itemidentification",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Datafeed",
-    "hash": "178408fc2b3dbbed8d78960d2dc364b8cff26a14265fc4f4d0dd1d9da3e9e294",
-    "size": 63294,
-    "plugins": [
-      "com.Datafeed.DatafeedPlugin"
-    ],
-    "displayName": "Datafeed",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "ItemHop",
-    "hash": "86203f86fad2f8fdbea9a4e91d3aa5346c8f92606b2181fcf3a2d75e5f705b52",
-    "size": 5251,
-    "plugins": [
-      "com.ItemHop.ItemHopPlugin"
-    ],
-    "displayName": "Itemhop",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Gauntlet",
-    "hash": "bb819e9ab0b5d603503168527f3b30661b86c34a05e07f9446b05917e3bc5937",
-    "size": 56745,
-    "plugins": [
-      "com.Gauntlet.GauntletPlugin"
-    ],
-    "displayName": "Gauntlet",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Areatiles",
-    "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
-    "size": 28029,
-    "plugins": [
-      "com.Areatiles.AreatilesPlugin"
-    ],
-    "displayName": "Areatiles",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Barbfishing",
-    "hash": "0e7643129ab57a03a902e75241ad874e92bcffb90b892b49354f85bef43019fa",
-    "size": 9363,
-    "plugins": [
-      "com.Barbfishing.BarbfishingPlugin"
-    ],
-    "displayName": "Barbfishing",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "IdleVisualAlarm",
-    "hash": "ebc50d0543ecb27c8169cc31cf1eeab06b4e5a029688c9ea400ccf045a9e49ce",
-    "size": 4314,
-    "plugins": [
-      "com.IdleVisualAlarm.IdleVisualAlarmPlugin"
-    ],
-    "displayName": "Idlevisualalarm",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Shortestpath",
-    "hash": "f8399179c4078a82198419aeaeefa0dd22b3b2c429afaebd96b7ba182d002511",
-    "size": 8328,
-    "plugins": [
-      "com.Shortestpath.ShortestpathPlugin"
-    ],
-    "displayName": "Shortestpath",
+    "displayName": "Npcanimation",
     "description": "",
     "provider": "trilapagg"
   },
@@ -165,24 +220,46 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Gorilla",
-    "hash": "9a8b546e145b1fda22eaaef57acd378316886cabe03caf8929f6168be5afbc5f",
-    "size": 20036,
+    "internalName": "FlinchTimer",
+    "hash": "449e6eec60a59b9d9708f47161d7a72341c7c4f8426081390c96a59fa633a6f2",
+    "size": 13184,
     "plugins": [
-      "com.Gorilla.GorillaPlugin"
+      "com.FlinchTimer.FlinchTimerPlugin"
     ],
-    "displayName": "Gorilla",
+    "displayName": "Flinchtimer",
     "description": "",
     "provider": "trilapagg"
   },
   {
-    "internalName": "WorldPosition",
-    "hash": "2a7ab32a7a36fc59a2001dfa04d8d2985ed678ff0522f0eb05af38266df37e39",
-    "size": 4466,
+    "internalName": "Barbfishing",
+    "hash": "0e7643129ab57a03a902e75241ad874e92bcffb90b892b49354f85bef43019fa",
+    "size": 9363,
     "plugins": [
-      "com.WorldPosition.WorldPositionPlugin"
+      "com.Barbfishing.BarbfishingPlugin"
     ],
-    "displayName": "Worldposition",
+    "displayName": "Barbfishing",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "Cox",
+    "hash": "68b05dfcf97c99e861a9998f9a1cd2345ee3f7d0d944054a1430414bf0c41dce",
+    "size": 33072,
+    "plugins": [
+      "com.Cox.CoxPlugin"
+    ],
+    "displayName": "Cox",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
+    "internalName": "TektonHelper",
+    "hash": "ef0adbb7fc246accbac9040ac76f7f3de7819696a5460226af5ecfa0e49eac63",
+    "size": 16366,
+    "plugins": [
+      "com.TektonHelper.TektonHelperPlugin"
+    ],
+    "displayName": "Tektonhelper",
     "description": "",
     "provider": "trilapagg"
   },
@@ -198,17 +275,6 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "AccountWorldFollower",
-    "hash": "f4a8c8c909da7955089eac0a555c44661b58e8984f0a2209f1d712f41bb0c59c",
-    "size": 6991,
-    "plugins": [
-      "com.AccountWorldFollower.AccountWorldFollowerPlugin"
-    ],
-    "displayName": "Accountworldfollower",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "PlayerAnimation",
     "hash": "d5b43a498ea885c7ebbed77d4369d31d46056731c938e829d8848fc4e06b192e",
     "size": 4476,
@@ -216,72 +282,6 @@
       "com.PlayerAnimation.PlayerAnimationPlugin"
     ],
     "displayName": "Playeranimation",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "IdDropper",
-    "hash": "b3c718f81f596b470f5fb060c5df9eda53cd74f55d2dc481818561e6159572f4",
-    "size": 9910,
-    "plugins": [
-      "com.IdDropper.IdDropperPlugin"
-    ],
-    "displayName": "Iddropper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "TouchScreen",
-    "hash": "f57b0286e3e1de3bf198c6d70fae54a1cec997eeeeec4683e2ec62d0419d416a",
-    "size": 409984,
-    "plugins": [
-      "com.TouchScreen.TouchScreenPlugin"
-    ],
-    "displayName": "Touchscreen",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Customcustom",
-    "hash": "6318173a63dabf1b36a61bce65a994048b4ff491727d2d3ad81817b5926af739",
-    "size": 48453,
-    "plugins": [
-      "com.Customcustom.CustomcustomPlugin"
-    ],
-    "displayName": "Customcustom",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "EasyMixology",
-    "hash": "142162e03fe0bda452cbd1139e8ddf6007235fdbe254e6ef186428053fae90b8",
-    "size": 46901,
-    "plugins": [
-      "com.EasyMixology.EasyMixologyPlugin"
-    ],
-    "displayName": "Easymixology",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "FlinchTimer",
-    "hash": "449e6eec60a59b9d9708f47161d7a72341c7c4f8426081390c96a59fa633a6f2",
-    "size": 13184,
-    "plugins": [
-      "com.FlinchTimer.FlinchTimerPlugin"
-    ],
-    "displayName": "Flinchtimer",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "TektonHelper",
-    "hash": "ef0adbb7fc246accbac9040ac76f7f3de7819696a5460226af5ecfa0e49eac63",
-    "size": 16366,
-    "plugins": [
-      "com.TektonHelper.TektonHelperPlugin"
-    ],
-    "displayName": "Tektonhelper",
     "description": "",
     "provider": "trilapagg"
   },
