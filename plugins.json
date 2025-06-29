@@ -243,8 +243,8 @@
   },
   {
     "internalName": "Displayduplicator",
-    "hash": "7ed6fc2319006c13e57c676c9992092689c471986a02c13c6371ec836f77deac",
-    "size": 12165,
+    "hash": "c860092017da29ac28cd66c9bd93e9fa73ead75872e6395804bc3600fb05a315",
+    "size": 12289,
     "plugins": [
       "com.Displayduplicator.DisplayduplicatorPlugin"
     ],
