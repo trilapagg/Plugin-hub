@@ -276,8 +276,8 @@
   },
   {
     "internalName": "LootTrackerPlus",
-    "hash": "fc0b1e8ef4e2db8be4d4599ce06beac4a72957e1c1dc13d26d3cc6abb0db598a",
-    "size": 1070262,
+    "hash": "ba5c9e7a4bd44fe5785c17d355bde4e741aaf4ffa3a68382be229153051b748a",
+    "size": 1070329,
     "plugins": [
       "com.LootTrackerPlus.LootTrackerPlusPlugin"
     ],
