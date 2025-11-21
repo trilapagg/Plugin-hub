@@ -1,16 +1,5 @@
 [
   {
-    "internalName": "BaMinigame",
-    "hash": "59a7920081eede5d51ccdb58d0197cf3b4e5dc9564c3cb0f67f6aad90809afeb",
-    "size": 8280,
-    "plugins": [
-      "com.BaMinigame.BaMinigamePlugin"
-    ],
-    "displayName": "Baminigame",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "EasyMixology",
     "hash": "142162e03fe0bda452cbd1139e8ddf6007235fdbe254e6ef186428053fae90b8",
     "size": 46901,
@@ -62,17 +51,6 @@
       "com.NpcAnimation.NpcAnimationPlugin"
     ],
     "displayName": "Npcanimation",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Shortestpath",
-    "hash": "f8399179c4078a82198419aeaeefa0dd22b3b2c429afaebd96b7ba182d002511",
-    "size": 8328,
-    "plugins": [
-      "com.Shortestpath.ShortestpathPlugin"
-    ],
-    "displayName": "Shortestpath",
     "description": "",
     "provider": "trilapagg"
   },
@@ -205,17 +183,6 @@
       "com.AnythingHelper.AnythingHelperPlugin"
     ],
     "displayName": "Anythinghelper",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
-    "internalName": "Barracudatrials",
-    "hash": "ab76448cb692717bf6da5aecd9a2c2d0ee7bac5103faf546dba67d267ba8c54c",
-    "size": 8397,
-    "plugins": [
-      "com.Barracudatrials.BarracudatrialsPlugin"
-    ],
-    "displayName": "Barracudatrials",
     "description": "",
     "provider": "trilapagg"
   },
