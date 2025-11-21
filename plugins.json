@@ -187,6 +187,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Barracudatrial",
+    "hash": "4dcdecd51371104dbb16bddb0a413c70c58681ed50b083b4c6d3f89d5423a887",
+    "size": 57012,
+    "plugins": [
+      "com.Barracudatrial.BarracudatrialPlugin"
+    ],
+    "displayName": "Barracudatrial",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "AnythingHelper",
     "hash": "c4bede3595e17c77b2567ddf2bf11799345ed15f07b3f12c1e518754bd725e67",
     "size": 4598,
