@@ -209,17 +209,6 @@
     "provider": "trilapagg"
   },
   {
-    "internalName": "Barracudatrials",
-    "hash": "ab76448cb692717bf6da5aecd9a2c2d0ee7bac5103faf546dba67d267ba8c54c",
-    "size": 8397,
-    "plugins": [
-      "com.Barracudatrials.BarracudatrialsPlugin"
-    ],
-    "displayName": "Barracudatrials",
-    "description": "",
-    "provider": "trilapagg"
-  },
-  {
     "internalName": "Customcustom",
     "hash": "6318173a63dabf1b36a61bce65a994048b4ff491727d2d3ad81817b5926af739",
     "size": 48453,
