@@ -188,8 +188,8 @@
   },
   {
     "internalName": "Barracudatrial",
-    "hash": "24191fc66da07d78fa813314adb8c77d84973a4926e8a5c544c5bedbce2cd714",
-    "size": 68518,
+    "hash": "2eebcd2bbf680f878cc8539479cee821e6a18b968f1b668528f60dfcf77f24a9",
+    "size": 69084,
     "plugins": [
       "com.Barracudatrial.BarracudatrialPlugin"
     ],
