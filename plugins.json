@@ -88,6 +88,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Crystalextractornotifier",
+    "hash": "d015fdc52015ffb28ad4dc9397e9f02ba67a03c3c7ad981d9d13b7a7dbd5e028",
+    "size": 8604,
+    "plugins": [
+      "com.Crystalextractornotifier.CrystalextractornotifierPlugin"
+    ],
+    "displayName": "Crystalextractornotifier",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "TektonHelper",
     "hash": "ef0adbb7fc246accbac9040ac76f7f3de7819696a5460226af5ecfa0e49eac63",
     "size": 16366,
