@@ -89,8 +89,8 @@
   },
   {
     "internalName": "Crystalextractornotifier",
-    "hash": "9b5e8a1b2cfdcc1c7222e438b9b85ef5d2ee4c83ded74a3f5eec92c705235f40",
-    "size": 16073,
+    "hash": "68c316debf391b93d2ae21d3bd208a923fde2fe0110ddd8f5809bb4ed31bbad4",
+    "size": 16029,
     "plugins": [
       "com.Crystalextractornotifier.CrystalextractornotifierPlugin"
     ],
