@@ -319,6 +319,17 @@
     "provider": "trilapagg"
   },
   {
+    "internalName": "Pishock",
+    "hash": "2453cda3f2f18d8d14cc368a926a2c810b5e8d524c5d6c95ba51267b4584d8d5",
+    "size": 8208,
+    "plugins": [
+      "com.Pishock.PishockPlugin"
+    ],
+    "displayName": "Pishock",
+    "description": "",
+    "provider": "trilapagg"
+  },
+  {
     "internalName": "Areatiles",
     "hash": "10cfdf2f13aa19e20745b27c5ae58f24c9166f22a1a2ddd7ad3bee600820a946",
     "size": 28029,
