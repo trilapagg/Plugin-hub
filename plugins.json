@@ -320,8 +320,8 @@
   },
   {
     "internalName": "Pishock",
-    "hash": "2453cda3f2f18d8d14cc368a926a2c810b5e8d524c5d6c95ba51267b4584d8d5",
-    "size": 8208,
+    "hash": "88359e5b130aefb5161f93f97a0e7998155faac86624ea1b530b011c2f7bb5bc",
+    "size": 11033,
     "plugins": [
       "com.Pishock.PishockPlugin"
     ],
